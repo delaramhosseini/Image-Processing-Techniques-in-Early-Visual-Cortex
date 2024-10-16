@@ -1,5 +1,4 @@
 ## Spiking Neural Network Architecture and Image Processing
-
 This project focuses on developing a spiking neural network (SNN) architecture that incorporates image processing techniques for enhanced feature extraction and learning, simulating aspects of biological vision.
 ---
 ## Overview
